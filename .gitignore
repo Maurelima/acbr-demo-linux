@@ -1,0 +1,8 @@
+# package directories
+node_modules
+openssl-1.1.1q
+
+# files
+lib_test_teste-acbrlibnfe.jsZone.Identifier
+openssl-1.1.1q.tar.gz
+tmp/certificado/certificado.pfx

@@ -1,0 +1,48 @@
+14/10/23 16:05:07:147 - TLibNFeConfig.AplicarConfiguracoes: /home/node/TESTEACBR/tmp/acbrlib.ini
+14/10/23 16:05:07:147 - Travar
+14/10/23 16:05:07:147 - TLibNFeConfig.AplicarConfiguracoes - Feito
+14/10/23 16:05:07:147 - Destravar
+14/10/23 16:05:07:147 - TLibNFeConfig.Ler - Feito
+14/10/23 16:05:07:147 - Destravar
+14/10/23 16:05:07:147 - TACBrLibNFe.Inicializar - Feito
+14/10/23 16:05:07:147 - LIB_Inicializar( /home/node/TESTEACBR/tmp/acbrlib.ini,  )
+14/10/23 16:05:07:147 -    ACBrLibNFE - 0.4.6.251
+14/10/23 16:05:07:149 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+14/10/23 16:05:07:149 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+14/10/23 16:05:07:149 - LIB_ConfigGravarValor(DFe, ArquivoPFX, /home/node/TESTEACBR/tmp/certificado/certificado.pfx)
+14/10/23 16:05:07:149 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+14/10/23 16:05:07:149 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+14/10/23 16:05:07:149 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,/home/node/TESTEACBR/tmp/certificado/certificado.pfx)
+14/10/23 16:05:07:149 - TLibNFeConfig.AjustarValor - Feito
+14/10/23 16:05:07:149 - TLibNFeConfig.AplicarConfiguracoes: /home/node/TESTEACBR/tmp/acbrlib.ini
+14/10/23 16:05:07:149 - Travar
+14/10/23 16:05:07:150 - TLibNFeConfig.AplicarConfiguracoes - Feito
+14/10/23 16:05:07:150 - Destravar
+14/10/23 16:05:07:150 -    SetRetorno(0, )
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+14/10/23 16:05:07:150 - LIB_ConfigGravarValor(DFe, Senha, *********)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+14/10/23 16:05:07:150 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,*********)
+14/10/23 16:05:07:150 - TLibNFeConfig.AjustarValor - Feito
+14/10/23 16:05:07:150 - TLibNFeConfig.AplicarConfiguracoes: /home/node/TESTEACBR/tmp/acbrlib.ini
+14/10/23 16:05:07:150 - Travar
+14/10/23 16:05:07:150 - TLibNFeConfig.AplicarConfiguracoes - Feito
+14/10/23 16:05:07:150 - Destravar
+14/10/23 16:05:07:150 -    SetRetorno(0, )
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+14/10/23 16:05:07:150 - LIB_ConfigGravarValor(NFe, PathSchemas, /home/node/TESTEACBR/assets/acbr/schemas)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+14/10/23 16:05:07:150 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+14/10/23 16:05:07:150 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,/home/node/TESTEACBR/assets/acbr/schemas)
+14/10/23 16:05:07:150 - TLibNFeConfig.AjustarValor - Feito
+14/10/23 16:05:07:150 - TLibNFeConfig.AplicarConfiguracoes: /home/node/TESTEACBR/tmp/acbrlib.ini
+14/10/23 16:05:07:150 - Travar
+14/10/23 16:05:07:150 - TLibNFeConfig.AplicarConfiguracoes - Feito
+14/10/23 16:05:07:150 - Destravar
+14/10/23 16:05:07:150 -    SetRetorno(0, )
+14/10/23 16:05:07:150 - NFe_DistribuicaoDFePorUltNSU(35,06319316000127,000000000000001)
+14/10/23 16:05:07:150 - Travar
+14/10/23 16:05:07:151 - NFe_DistribuicaoDFePorUltNSU, Executar
